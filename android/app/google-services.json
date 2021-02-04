@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472305625092",
+    "project_id": "time-tracker-617cc",
+    "storage_bucket": "time-tracker-617cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472305625092:android:5b1c443b1f6cd6fb5f6d51",
+        "android_client_info": {
+          "package_name": "com.iviberberi.time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472305625092-9s6j0539um38k3l5n1nt3amit7s0ljah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iviberberi.time_tracker",
+            "certificate_hash": "8b774af0c4f98e47908517a2743e6c779a696c39"
+          }
+        },
+        {
+          "client_id": "472305625092-v98cbsq3pmecj4c3v84c6kdq8a50s7fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iviberberi.time_tracker",
+            "certificate_hash": "fdbffd6e17295522295c15c92f699e0b3b6e43c1"
+          }
+        },
+        {
+          "client_id": "472305625092-8as9dgrp07l9nksvrt86b3bk61cp7ln3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXHLwlwnFZifRVc73Ib6e2dSzCcLtKhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472305625092-8as9dgrp07l9nksvrt86b3bk61cp7ln3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
